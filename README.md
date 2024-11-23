@@ -1,3 +1,3 @@
 # Airline Survey Dashboard
 
-![image alt](Airline survey Dashboard.JPG)
+![](https://github.com/Blessingochai6/DANO-Airline-customer-survey-data-insights/blob/main/Airline%20Dashboard.PNG)
